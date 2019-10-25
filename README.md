@@ -1,4 +1,4 @@
-Bus simulation happens based in the following three events,
+Bus simulation happens based on the following three events,
 
 1. person: A person arrives in the queue at a bus stop
 Action: After a random (exponentially-distributed inter- arrival) time, another person is scheduled to arrive in the queue
